@@ -1,0 +1,14 @@
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\bin\Debug\net8.0\PatternsLab1.exe
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\bin\Debug\net8.0\PatternsLab1.deps.json
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\bin\Debug\net8.0\PatternsLab1.runtimeconfig.json
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\bin\Debug\net8.0\PatternsLab1.dll
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\bin\Debug\net8.0\PatternsLab1.pdb
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.AssemblyInfoInputs.cache
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.AssemblyInfo.cs
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.csproj.CoreCompileInputs.cache
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.dll
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\refint\PatternsLab1.dll
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.pdb
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\PatternsLab1.genruntimeconfig.cache
+C:\Users\Konserva\source\repos\PatternsLab1\PatternsLab1\obj\Debug\net8.0\ref\PatternsLab1.dll
