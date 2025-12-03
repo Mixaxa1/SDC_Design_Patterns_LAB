@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab1\\part2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\subject area\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\subject area\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\subject area\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\subject area\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\subject area\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\subject area\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\subject area\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\subject area\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|c:\\users\\konserva\\source\\repos\\sdc_design_patterns_lab\\lab1\\part2\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73301576-A9AC-40A4-B766-7B91EDBF249D}|part2\\Part2.csproj|solutionrelative:part2\\prototyperegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Client.cs",
               "RelativeDocumentMoniker": "part2\\Client.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Client.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Client.cs",
               "RelativeToolTip": "part2\\Client.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T16:12:00.501Z",
               "EditorCaption": ""
@@ -57,80 +37,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tank.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Tank.cs",
-              "RelativeDocumentMoniker": "part2\\Subject Area\\Tank.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Tank.cs",
-              "RelativeToolTip": "part2\\Subject Area\\Tank.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:21:22.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrototypeRegistry.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\PrototypeRegistry.cs",
-              "RelativeDocumentMoniker": "part2\\PrototypeRegistry.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\PrototypeRegistry.cs",
-              "RelativeToolTip": "part2\\PrototypeRegistry.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:39:43.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Vehicle.cs",
-              "RelativeDocumentMoniker": "part2\\Subject Area\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Vehicle.cs",
-              "RelativeToolTip": "part2\\Subject Area\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T18:03:24.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cargo.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Cargo.cs",
-              "RelativeDocumentMoniker": "part2\\Subject Area\\Cargo.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Cargo.cs",
-              "RelativeToolTip": "part2\\Subject Area\\Cargo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T07:07:08.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Car.cs",
-              "RelativeDocumentMoniker": "part2\\Subject Area\\Car.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Subject Area\\Car.cs",
-              "RelativeToolTip": "part2\\Subject Area\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:43:26.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Program.cs",
-              "RelativeDocumentMoniker": "part2\\Program.cs",
-              "ToolTip": "C:\\Users\\Konserva\\source\\repos\\SDC_Design_Patterns_LAB\\Lab1\\part2\\Program.cs",
-              "RelativeToolTip": "part2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T19:09:31.24Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
             }
           ]
         }

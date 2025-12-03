@@ -1,0 +1,15 @@
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\bin\Debug\net9.0\Flyweight.exe
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\bin\Debug\net9.0\Flyweight.deps.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\bin\Debug\net9.0\Flyweight.runtimeconfig.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\bin\Debug\net9.0\Flyweight.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\bin\Debug\net9.0\Flyweight.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.AssemblyInfo.cs
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.sourcelink.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\refint\Flyweight.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\Flyweight.genruntimeconfig.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab2\Flyweight\obj\Debug\net9.0\ref\Flyweight.dll

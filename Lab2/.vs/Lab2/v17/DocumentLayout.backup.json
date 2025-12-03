@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\bookaccessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\bookaccessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\userauthorizationsystem\\userauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\userauthorizationsystem\\userauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\userpermitionsystem\\userpermitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\userpermitionsystem\\userpermitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\bookstoragesystem\\bookstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\bookstoragesystem\\bookstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3\\authproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37B74525-2FC6-4F06-96CA-E70D57D21A45}|Task3\\Task3.csproj|solutionrelative:task3\\authproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\AuthProxy.cs",
+              "RelativeDocumentMoniker": "Task3\\AuthProxy.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\AuthProxy.cs",
+              "RelativeToolTip": "Task3\\AuthProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:18:14.353Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:38:12.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookAccessClient.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\BookAccessClient.cs",
+              "RelativeDocumentMoniker": "Task3\\BookAccessClient.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\BookAccessClient.cs",
+              "RelativeToolTip": "Task3\\BookAccessClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:41:20.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPermitionService.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\UserPermitionSystem\\UserPermitionService.cs",
+              "RelativeDocumentMoniker": "Task3\\UserPermitionSystem\\UserPermitionService.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\UserPermitionSystem\\UserPermitionService.cs",
+              "RelativeToolTip": "Task3\\UserPermitionSystem\\UserPermitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:41:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\BookStorageSystem\\BookStorage.cs",
+              "RelativeDocumentMoniker": "Task3\\BookStorageSystem\\BookStorage.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\BookStorageSystem\\BookStorage.cs",
+              "RelativeToolTip": "Task3\\BookStorageSystem\\BookStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:41:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\UserAuthorizationSystem\\UserAuthorizationService.cs",
+              "RelativeDocumentMoniker": "Task3\\UserAuthorizationSystem\\UserAuthorizationService.cs",
+              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3\\UserAuthorizationSystem\\UserAuthorizationService.cs",
+              "RelativeToolTip": "Task3\\UserAuthorizationSystem\\UserAuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:16:57.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
