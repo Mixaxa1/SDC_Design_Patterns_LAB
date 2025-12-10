@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Task3v2ApiSide.ApiSide.Controllers.BookStorageController",
+    "Method": "GetByTitle",
+    "RelativePath": "BookStorage/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3v2ApiSide.ApiSide.Controllers.PermitionsController",
+    "Method": "CheckPermition",
+    "RelativePath": "Permitions/{nickname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nickname",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "book",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3v2ApiSide.ApiSide.Controllers.UserController",
+    "Method": "Authorize",
+    "RelativePath": "User/{login}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task3v2ApiSide.ApiSide.Controllers.UserController",
+    "Method": "CheckRegistration",
+    "RelativePath": "User/checkReg/{nickname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nickname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task2v2.Db.Entities
+{
+    public enum EntityStatus
+    {
+        Active,
+        Inactive,
+        Other
+    }
+}
