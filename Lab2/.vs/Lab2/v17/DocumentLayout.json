@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\secondapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\secondapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04F8F852-661D-4DC4-A0AB-E6A50C011996}|Task3v2\\Task3v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task3v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04F8F852-661D-4DC4-A0AB-E6A50C011996}|Task3v2\\Task3v2.csproj|solutionrelative:task3v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\firstapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\firstapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\secondcontroller\\secondapioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\secondcontroller\\secondapioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\secondcontroller\\firstcontrollerproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\secondcontroller\\firstcontrollerproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|c:\\users\\konserva\\documents\\github\\sdc_design_patterns_lab\\lab2\\task2v2\\secondcontroller\\ifirstapioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB326BA-DEF8-4437-9277-B46A9AFB624D}|Task2v2\\Task2v2.csproj|solutionrelative:task2v2\\secondcontroller\\ifirstapioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -52,121 +19,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\Db\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Task2v2\\Db\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\Db\\AppDbContext.cs",
-              "RelativeToolTip": "Task2v2\\Db\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:44:53.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\Program.cs",
-              "RelativeDocumentMoniker": "Task2v2\\Program.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\Program.cs",
-              "RelativeToolTip": "Task2v2\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:39:32.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IFirstApiOperations.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\IFirstApiOperations.cs",
-              "RelativeDocumentMoniker": "Task2v2\\SecondController\\IFirstApiOperations.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\IFirstApiOperations.cs",
-              "RelativeToolTip": "Task2v2\\SecondController\\IFirstApiOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T20:25:41.564Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3v2\\Program.cs",
-              "RelativeDocumentMoniker": "Task3v2\\Program.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task3v2\\Program.cs",
-              "RelativeToolTip": "Task3v2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:02:16.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SecondApiOperations.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\SecondApiOperations.cs",
-              "RelativeDocumentMoniker": "Task2v2\\SecondController\\SecondApiOperations.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\SecondApiOperations.cs",
-              "RelativeToolTip": "Task2v2\\SecondController\\SecondApiOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:59:31.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SecondApiController.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondApiController.cs",
-              "RelativeDocumentMoniker": "Task2v2\\SecondApiController.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondApiController.cs",
-              "RelativeToolTip": "Task2v2\\SecondApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:47:50.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FirstApiController.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\FirstApiController.cs",
-              "RelativeDocumentMoniker": "Task2v2\\FirstApiController.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\FirstApiController.cs",
-              "RelativeToolTip": "Task2v2\\FirstApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T19:10:23.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FirstControllerProxy.cs",
-              "DocumentMoniker": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\FirstControllerProxy.cs",
-              "RelativeDocumentMoniker": "Task2v2\\SecondController\\FirstControllerProxy.cs",
-              "ToolTip": "C:\\Users\\Konserva\\Documents\\GitHub\\SDC_Design_Patterns_LAB\\Lab2\\Task2v2\\SecondController\\FirstControllerProxy.cs",
-              "RelativeToolTip": "Task2v2\\SecondController\\FirstControllerProxy.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAkwJAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T20:23:47.058Z",
-              "EditorCaption": ""
             }
           ]
         }
