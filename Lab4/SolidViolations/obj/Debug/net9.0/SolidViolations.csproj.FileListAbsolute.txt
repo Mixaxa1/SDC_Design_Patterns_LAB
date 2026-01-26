@@ -1,0 +1,15 @@
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\bin\Debug\net9.0\SolidViolations.exe
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\bin\Debug\net9.0\SolidViolations.deps.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\bin\Debug\net9.0\SolidViolations.runtimeconfig.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\bin\Debug\net9.0\SolidViolations.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\bin\Debug\net9.0\SolidViolations.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.AssemblyInfoInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.AssemblyInfo.cs
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.csproj.CoreCompileInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.sourcelink.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\refint\SolidViolations.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\SolidViolations.genruntimeconfig.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SolidViolations\obj\Debug\net9.0\ref\SolidViolations.dll

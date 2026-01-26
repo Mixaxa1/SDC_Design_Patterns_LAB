@@ -1,0 +1,15 @@
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\bin\Debug\net9.0\SOLIDRefactor.exe
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\bin\Debug\net9.0\SOLIDRefactor.deps.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\bin\Debug\net9.0\SOLIDRefactor.runtimeconfig.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\bin\Debug\net9.0\SOLIDRefactor.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\bin\Debug\net9.0\SOLIDRefactor.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.AssemblyInfoInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.AssemblyInfo.cs
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.sourcelink.json
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\refint\SOLIDRefactor.dll
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.pdb
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\SOLIDRefactor.genruntimeconfig.cache
+C:\Users\Konserva\Documents\GitHub\SDC_Design_Patterns_LAB\Lab4\SOLIDRefactor\obj\Debug\net9.0\ref\SOLIDRefactor.dll
